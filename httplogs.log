@@ -1,0 +1,135 @@
+192.168.56.5 - - [03/May/2021 17:20:59] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:20:59] "GET /HNAP1/ HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /Frontend HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /menu.html?images/ HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 501, message Unsupported method ('POST')
+192.168.56.5 - - [03/May/2021 17:21:01] "POST //webs/sysTimeCfgEx HTTP/1.1" 501 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /AvastUniqueURL HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /rom-0 HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /cgi-bin/webproc?getpage=/etc/shadow&errorpage=html/main.html&var:language=en_us&var:menu=setup&var:page=wizard HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /cgi-bin/webproc?getpage=/../../etc/passwd&var:language=en_us&var:page=* HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /cgi-bin/webproc?getpage=/etc/shadow HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /cgi-bin/a2/out.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /cgi-bin/ajaxmail HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:01] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:01] "GET /cgi-bin/arr/index.shtml HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/at3/out.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/atc/out.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/atx/out.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/auth HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/bbs/postlist.pl HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/bbs/postshow.pl HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/bp_revision.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/br5.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/click.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/clicks.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/crtr/out.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/fg.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/findweather/getForecast HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/findweather/hdfForecast HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/frame_html HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/getattach HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/hotspotlogin.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/hslogin.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/ib/301_start.pl HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/index.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/index HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/krcgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/krcgistart HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/link HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/login.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/login HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/logout HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/logout HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/mainmenu.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/mainsrch HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/msglist HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/navega HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/openwebmail/openwebmail-main.pl HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/out.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/passremind HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/rbaccess/rbcgi3m01 HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/rbaccess/rbunxcgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/readmsg HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/rshop.pl HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/search.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/spcnweb HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/sse.dll HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:02] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:02] "GET /cgi-bin/start HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/te/o.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/tjcgi1 HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/top/out HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/traffic/process.fcgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/verify.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/webproc HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/webscr HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /cgi-bin/wingame.pl HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /das/cgi-bin/session.cgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /fcgi-bin/dispatch.fcgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /fcgi-bin/performance.fcgi HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] code 404, message File not found
+192.168.56.5 - - [03/May/2021 17:21:03] "GET /redir/cgi-bin/ajaxmail HTTP/1.1" 404 -
+192.168.56.5 - - [03/May/2021 17:21:03] "GET / HTTP/1.1" 200 -

